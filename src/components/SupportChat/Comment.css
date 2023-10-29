@@ -1,0 +1,35 @@
+.wrapper{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-bottom: 15px;
+    width: 100vw;
+    height: 50px;
+    text-align: center;
+    background-color: #3D3D3D;
+    align-items: center;
+}
+.wrapper2{
+    width: 100vw;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.wrapper2>img{
+    width: 40px;
+    height: 40px;
+}
+.wrapper2>input{
+    border: 1px solid ;
+    border-radius: 8px;
+    width: 80vw;
+    text-align: center;
+    font-size: 20px;
+    /* font-family: 'Inter', sans-serif; */
+    color: black;
+}
+.wrapper2>button{
+    border: 1px solid ;
+    border-radius: 8px;
+    background-color: #E77B3E;
+}

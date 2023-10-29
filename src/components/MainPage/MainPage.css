@@ -1,0 +1,30 @@
+.main{
+   
+    background-image: url(./../../public/Снимок\ экрана\ 2023-10-22\ 161639.png);
+    background-size: cover;
+    z-index: 1;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    /* width: 1980px; */
+
+}
+.title{
+    padding-left: 950px;
+    padding-top: 290px;
+    font-family: 'Scada', sans-serif;
+    color: #181818;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.title>p{
+    margin: 0;
+}
+.chatIcon{
+    position: absolute;
+    top: 94%;
+    left: 1%;
+}

@@ -1,0 +1,47 @@
+.mainReg{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+
+}
+.reg{ 
+    max-width: 846px;
+    max-height: 1021px;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    padding: 0;
+    color: #FF7F00;
+    text-align: center;
+    /* font-family: 'Poppins', sans-serif; */
+    font-size: 69px;
+    font-weight: 600;
+}
+.nameReg{
+  border: 1px solid;
+  border-color: #6c6969;
+  border-radius: 13px;
+  height: 81px;
+  /* left: 0;
+  position: fixed;
+  top: 0; */
+  width: 548px;
+  font-size: 24px;
+  text-align: center;
+}
+.nameReg::placeholder{
+  color: #212529;
+  opacity: 0.4;
+  text-align: center;
+}
+.buttonReg{
+    background-color: #ff9933;
+    border-radius: 13px;
+    height: 67px;
+    width: 281px;
+    color: #ffffff;
+    font-family:  Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+}

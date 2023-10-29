@@ -1,0 +1,48 @@
+.NavBar{
+    align-items: center;
+    padding-left: 7px;
+    height: 63px;
+    display: flex;
+    padding-top: 8px;
+    /* padding-bottom: 290px; */
+    /* width: 100vw; */
+}
+.pages>a:not(:last-child) {
+    padding-right: 11px;
+}
+.pages>a:first-child{
+    padding-left: 14px;
+}
+.pages>a:nth-child(3){
+    position: absolute;
+    left: 92%;
+    padding-top: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+.pages>a:nth-child(2) {
+    padding: 0;
+    width: 172px;
+    height: 44px;
+}
+.logOut{
+    position: absolute;
+    left: 92%;
+    padding-top: 14px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+

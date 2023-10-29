@@ -1,0 +1,22 @@
+.chatBlock{
+
+    font-family: Scada;
+    position: absolute;
+    left: 65%;
+    /* background-image: url('../../public/Group\ 1.png');
+    background-size: cover; */
+    height: 80vh;
+    /* width: 100vw; */
+}
+.chats{
+    height: 60px;
+    width: 500px;
+    background-image: url('../../public/Group\ 1.png');
+    /* background-size: 100% 100%; */
+    background-size: cover;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.chatText{
+    padding-left: 30px;
+}

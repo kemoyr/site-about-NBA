@@ -1,0 +1,21 @@
+.mainChat{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+}
+.chatTitle{
+    text-align: center;
+    background-color: #3D3D3D;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    height: 90px;
+    margin-bottom: 30px;
+}
+.navBarChat{
+    background-color: #3D3D3D;
+}
